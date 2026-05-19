@@ -61,30 +61,30 @@ Background in accounting and client support, giving me strong analytical and com
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 📦 Logistics Multi-Agent Optimization
-**Python / OR-Tools / MiniZinc – HETIC**
+### 🚚 Logistics Optimization Engine
+Constraint-based warehouse allocation system built with Python, OR-Tools and MiniZinc.
 
-- Designed a warehouse order allocation system
-- Object-oriented architecture (`Warehouse`, `Agent`, `Order`, `Product`)
-- Constraint-based optimization engine
-- Solved using OR-Tools CP-SAT
+- Multi-agent order allocation
+- CP-SAT optimization solver
+- Object-oriented architecture
+- Constraint programming
 
-### 🔐 Unicode Cryptography Application
-**Python / Streamlit**
+### 🔐 Steganography & Cryptography App
+Python/Streamlit application for encrypted hidden messaging inside images.
 
 - Caesar & Vigenère encryption
-- Hidden messages inside images (LSB encoding)
-- Interactive Streamlit interface
+- LSB image steganography
+- Interactive web interface
 
-### 🕵️ Murder City SQL Investigation
-**SQL Multi-table Analysis**
+### 🧠 SQL Investigation Engine
+Advanced SQL investigation project using relational databases.
 
-- Complex JOIN queries
+- Complex JOIN operations
 - GROUP BY & subqueries
-- Relational database investigation project
 - Query optimization
+- Multi-table analysis
 
 ---
 
@@ -144,25 +144,11 @@ Background in accounting and client support, giving me strong analytical and com
 ---
 
 ## 📫 Contact
-
+ 
 📧 romain.roth@gmail.com  
-📍 Île-de-France  
-🚗 Driving License (Permis B)
-
----
-
-## 🔗 Socials
-
-- LinkedIn: romain-roth-dev
-- GitHub: RomainR99
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainR99&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainR99&layout=compact&theme=tokyonight)
+LinkedIn: romain-roth-dev
+🌐 https://romainroth.fr 
+🌐 https://romainroth.com
 
 ---
 
