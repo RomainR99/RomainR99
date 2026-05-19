@@ -144,11 +144,11 @@ Advanced SQL investigation project using relational databases.
 ---
 
 ## 📫 Contact
- 
-📧 romain.roth@gmail.com  
-LinkedIn: romain-roth-dev
-🌐 https://romainroth.fr 
-🌐 https://romainroth.com
+
+- 📧 [romain.roth@gmail.com](mailto:romain.roth@gmail.com)
+- 💼 [LinkedIn — romain-roth-dev](https://www.linkedin.com/in/romain-roth-dev)
+- 🌐 [romainroth.fr](https://romainroth.fr)
+- 🌐 [romainroth.com](https://romainroth.com)
 
 ---
 
